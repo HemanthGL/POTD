@@ -4,6 +4,8 @@ public:
     // straightforward BFS Approach with condition of revisit being
     // lesser cost path leads to revisiting node.
 
+    // Problemset URL: https://practice.geeksforgeeks.org/problems/shortest-path-in-undirected-graph/1
+
     vector<int> shortestPath(int N, int M, vector<vector<int>>& edges) {
         // code here
 
