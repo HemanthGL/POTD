@@ -8,6 +8,8 @@ public:
     // Problemset Link: https://leetcode.com/problems/maximal-network-rank/description/
     // Problem CODE: 1615
 
+    // DIFFICULTY: MEDIUM
+
     // SOLUTION METRICS:
     //      TIME COMPLEXITY:     O (N^2)
     //      SPACE COMPLEXITY:    O (N^2) -> Adjacency List Constructed.
